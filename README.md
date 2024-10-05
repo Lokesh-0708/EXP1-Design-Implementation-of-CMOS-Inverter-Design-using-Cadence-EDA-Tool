@@ -76,7 +76,7 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![Screenshot 2024-10-05 102613](https://github.com/user-attachments/assets/6d05221f-414a-40d4-bb79-324a41e2b18a)
 
 
  
@@ -90,14 +90,16 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
- ![image](https://github.com/user-attachments/assets/3aac50ec-bc0f-406e-be2e-a504b8afa8c9)
+![Screenshot 2024-10-05 105856](https://github.com/user-attachments/assets/0d7ce8ac-654d-4075-9f28-1873f7ce5fae)
+
 
 For Transient Analysis Settings and Output
  
  
- ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
+![Screenshot 2024-10-05 110013](https://github.com/user-attachments/assets/da4faad7-0833-4ee9-a4b5-a83e86c735ac)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ ![Screenshot 2024-10-05 103359](https://github.com/user-attachments/assets/3b1d53d9-0739-472b-a578-ee9594b2163f)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
